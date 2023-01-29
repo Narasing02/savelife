@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/savelife/static/css/main.d447fbb9.css",
+    "main.js": "/savelife/static/js/main.42e319c4.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/savelife/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/savelife/index.html",
+    "main.d447fbb9.css.map": "/savelife/static/css/main.d447fbb9.css.map",
+    "main.42e319c4.js.map": "/savelife/static/js/main.42e319c4.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/savelife/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d447fbb9.css",
+    "static/js/main.42e319c4.js"
+  ]
+}
