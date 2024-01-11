@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/savelife/static/css/main.968e510c.css",
+    "main.js": "/savelife/static/js/main.c4e4845a.js",
+    "static/js/787.f997cbf5.chunk.js": "/savelife/static/js/787.f997cbf5.chunk.js",
+    "static/media/savelife.jpg": "/savelife/static/media/savelife.633ecf14a2313f8e0c62.jpg",
+    "index.html": "/savelife/index.html",
+    "main.968e510c.css.map": "/savelife/static/css/main.968e510c.css.map",
+    "main.c4e4845a.js.map": "/savelife/static/js/main.c4e4845a.js.map",
+    "787.f997cbf5.chunk.js.map": "/savelife/static/js/787.f997cbf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.968e510c.css",
+    "static/js/main.c4e4845a.js"
+  ]
+}
