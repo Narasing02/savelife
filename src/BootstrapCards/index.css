@@ -1,0 +1,11 @@
+.bootstrap-card-organs{
+    display:flex;
+    justify-content: space-evenly;
+    gap:20px;
+    flex-wrap:wrap;
+    padding:20px;
+}
+.eye-organ-image{
+    height:200px;
+    
+}

@@ -1,0 +1,8 @@
+.admin-nav{
+   
+    background-color: aliceblue;
+    display: flex;
+    padding:20px;
+    justify-content: space-around;
+
+}
